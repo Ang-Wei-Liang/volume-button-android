@@ -1,6 +1,6 @@
 # 📱 Android Volume Button Listener (Screen Off Support)
 
-This Android app demonstrates how to **listen to volume button presses** (Volume Up / Volume Down) **even when the screen is locked/off**, using a **foreground service** and a `MediaSessionCompat`.
+This Android app demonstrates how to **listen to volume button presses** (Volume Up / Volume Down) **even when the screen is off**, using a **foreground service** and a `MediaSessionCompat`. A key drawback is that the up button cannot be detected when volume is at 100% and the down button cannot be detected when the volume is at 0%, since there needs to be a change in volume.
 
 ---
 
