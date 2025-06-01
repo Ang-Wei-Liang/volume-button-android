@@ -18,25 +18,18 @@ This Android app demonstrates how to **listen to volume button presses** (Volume
 
 <table>
   <tr>
-    <td><img src="https://i.ibb.co/DPPp8Tnx/Simple-Service.jpg" alt="Demo 2" width="300"/></td>
-    <td><img src="https://i.ibb.co/5hx6w4zz/Screenshot-2025-06-02-020327.png" alt="Console Image" width="300"/></td>
+    <td align="center">
+      <img src="https://i.ibb.co/DPPp8Tnx/Simple-Service.jpg" alt=" Application Simple Demo" width="300"/><br/>
+       Application Simple Demo
+    </td>
   </tr>
   <tr>
-    <td align="center">🔊 Volume Up Detection</td>
-    <td align="center">🔇 Volume Down Detection</td>
+    <td align="center">
+      <img src="https://i.ibb.co/5hx6w4zz/Screenshot-2025-06-02-020327.png" alt="Android Studio Logs" width="300"/><br/>
+      The logs in android studio
+    </td>
   </tr>
 </table>
 
-
 ---
 
-## 🚀 Getting Started
-
-### 🧱 Prerequisites
-
-- Android Studio Giraffe or newer
-- Kotlin 1.8+
-- Target SDK: 33+
-- Minimum SDK: 26
-
----
