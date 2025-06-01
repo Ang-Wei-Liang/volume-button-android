@@ -25,7 +25,7 @@ This Android app demonstrates how to **listen to volume button presses** (Volume
   </tr>
   <tr>
     <td align="center">
-      <img src="https://i.ibb.co/5hx6w4zz/Screenshot-2025-06-02-020327.png" alt="Android Studio Logs" width="300"/><br/>
+      <img src="https://i.ibb.co/5hx6w4zz/Screenshot-2025-06-02-020327.png" alt="Android Studio Logs" width="1000"/><br/>
       The logs in android studio
     </td>
   </tr>
